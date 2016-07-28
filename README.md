@@ -1,2 +1,2 @@
-# chatclient
-Chatclient for Android devices
+# chat client
+Chat client for Android devices
