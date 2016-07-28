@@ -1,2 +1,2 @@
 # chat client
-Chat client for Android devices
+A simple chat client for Android devices
